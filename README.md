@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhammadadityogunawan@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny;**
+- ⚡ Fun fact **I think I am Funny 😆 ✨**
 
 <br>
 
