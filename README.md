@@ -30,13 +30,22 @@
 <br/>  
 
   
+<br>
+
+<h3>Statistical Data :</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-pw&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="AdityoGunawan" 
+    bg_color=#808080/></p>
+
+</br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityoGunawan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="AdityoGunawan" /></p>
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AdityoGunawan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31u7erf4rgsxmbjneqmtv4upz7dy&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31u7erf4rgsxmbjneqmtv4upz7dy&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
